@@ -14,4 +14,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amchado&layout=compact)](https://github.com/amchado/github-readme-stats)
 
+<p> • Estudando para me tornar um desenvolvedor Front-End
+
 
