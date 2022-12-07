@@ -17,4 +17,4 @@
 <p> • Estudando para me tornar um desenvolvedor Front-End 🙋‍♂️
 
 
-![snake gif](https://github.com/FelipeGPellegrini/FelipeGPellegrini/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/amchado/amchado/blob/output/github-contribution-grid-snake.svg)
