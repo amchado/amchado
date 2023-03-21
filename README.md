@@ -15,6 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amchado&layout=compact)](https://github.com/amchado/github-readme-stats)
 
 <p> • Estudando para me tornar um desenvolvedor Front-End 🙋‍♂️
+<p> • E futuramente me tornar um devenvolvedor Full-Stack
 
 
 ![snake gif](https://github.com/amchado/amchado/blob/output/github-contribution-grid-snake.svg)
