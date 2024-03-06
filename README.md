@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Arthur Lucas 🤙
 
-<p>• 2/6 Análise e Desenvolvimento de Sistemas 📚 </p>
+<p>• 4/6 Análise e Desenvolvimento de Sistemas 📚 </p>
 
 
 
