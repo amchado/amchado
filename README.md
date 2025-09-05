@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Arthur Lucas 🤙
 
-<p>• 4/6 Análise e Desenvolvimento de Sistemas 📚 </p>
+<p>• Formado em Análise e Desenvolvimento de Sistemas  </p>
 
 
 
@@ -16,7 +16,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amchado&layout=compact)](https://github.com/amchado/github-readme-stats)
 
-<p> • Estudando para me tornar um desenvolvedor Front-End 🙋‍♂️
+<p> • Estudando para me tornar um desenvolvedor Front-End 
 <p> • E futuramente me tornar um devenvolvedor Full-Stack
 
 
